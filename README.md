@@ -66,5 +66,9 @@ This repository contains a Power BI-based **E-Commerce Sales Dashboard** designe
 
 - Real-time filtering and drill-downs for user insights
 
+## 📬 Contact
+For questions or feedback, feel free to open an issue or connect via LinkedIn.
+
+LinkedIn Profile: www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
 
 
