@@ -58,11 +58,11 @@ This repository contains a Power BI-based **E-Commerce Sales Dashboard** designe
 
 ## 🧠 Learnings & Features
 
-- ** Interactive slicers for Category and Market
+- Interactive slicers for Category and Market
 
-- ** KPI Cards, Donut & Bar Charts, Tree Maps, and Pie Charts
+- KPI Cards, Donut & Bar Charts, Tree Maps, and Pie Charts
 
-- ** Real-time filtering and drill-downs for user insights
+- Real-time filtering and drill-downs for user insights
 
 
 
