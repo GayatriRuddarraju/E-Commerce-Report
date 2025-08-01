@@ -51,9 +51,9 @@ This repository contains a Power BI-based **E-Commerce Sales Dashboard** designe
    ```bash
    git clone https://github.com/your-username/e-commerce-report.git
 
-2.Open the .pbix file in Power BI Desktop.
+  2. Open the .pbix file in Power BI Desktop.
 
-3.Explore the visuals and apply filters by Category or Market as needed.
+  3. Explore the visuals and apply filters by Category or Market as needed.
 
 
 ## 🧠 Learnings & Features
