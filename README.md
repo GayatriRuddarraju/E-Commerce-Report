@@ -4,6 +4,8 @@
 
 This repository contains a Power BI-based **E-Commerce Sales Dashboard** designed to visualize and analyze key performance metrics including **Sales**, **Profit**, **Shipping Costs**, and more across various **Markets**, **Countries**, **States**, and **Categories**.
 
+## 📸 Dashboard Preview
+
 ![E-Commerce Dashboard](E%20Commerce%20Report%20SS.png)
 
 
