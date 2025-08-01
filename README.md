@@ -1,4 +1,4 @@
-# E-Commerce-Report
+# E-Commerce-Report (PowerBI Project)
 
 # 📊 E-Commerce Report Dashboard – Gayatri
 
